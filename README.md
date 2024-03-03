@@ -10,6 +10,7 @@ _Detection Algorithm:_ The YOLO v8 model processes the input, swiftly identifyin
 _Visualization:_ The areas of interest (individuals without proper PPE) are highlighted in the output, providing a clear visual indication.
 
 **Implementation Details**
+
 _Python Programming:_ The project is implemented in Python, making it versatile and easy to integrate with existing systems.
 
 _Configuration Flexibility_: The config.yml file allows users to tweak parameters such as confidence thresholds, adapting the detector to specific project requirements.
